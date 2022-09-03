@@ -1,0 +1,122 @@
+body{
+    margin: auto;
+}
+.mainpage{
+    background-color:#CEE5D0;
+}
+.nav{
+    /* margin: 10px 3px 20px 3px; */
+    margin-bottom: 4rem;
+    font-size: 2rem;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Josefin Slab', serif;
+    padding-top: 3rem;
+    margin-left: 5rem;
+    padding-right: 0%;
+    padding-left: 50%;
+    color: #354259;
+   
+}
+.nav-link{
+    color: #354259;
+}
+h1{
+    font-family: 'Space Mono', monospace;
+    color: #354259;
+    font-size: 5rem;
+}
+h2{
+    font-family: 'Space Mono', monospace;
+    padding-top: 5rem;
+}
+h4{
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #354259;
+}
+
+.about-name{
+    padding-bottom:0;
+    margin-left: 5rem;
+}
+.about{
+   margin-top: 3rem;
+   margin-left: 5rem ;
+}
+.image{
+    margin-left: 10rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    width: 400px;
+    height: 400px;
+}
+.hire-me{
+    padding-top: 3rem;
+    padding-left: 45%;
+    padding-right: 0%;
+    padding-bottom: 3rem;
+    font-weight: 100;
+}
+.btn{
+    background-color: #CDC2AE;
+    border-radius: 0%;
+    /* box-shadow:10px 3px 3px #354259; */
+    color: #fff;
+}
+    #cursor{
+    font-size: 20px;
+}
+.hire-a{
+    color: black;
+}
+.skill-section{
+    /* background-color: #CDC2AE; */
+    color: #354259;
+    font-weight: 100;
+    background-color:beige;
+    padding-top: 0%;
+}
+.skills{
+    background-color: #354259;
+}
+.skill-heading{
+    /* font-size: xx-large; */
+    padding-top: 3rem;
+    margin: 0rem 0 2rem 0rem;
+    font-family: 'Space Mono', monospace;
+    font-family: 'Montserrat-black', sans-serif;
+    text-align: center;
+    font-size: 4rem;
+}
+.all-skills{
+    font-family: 'Montserrat-black', sans-serif;
+    font-family: 'Space Mono', monospace;
+    font-size: 2rem;
+    font-weight: 50;
+    color: #554994;
+}
+.footer{
+    background-color:beige;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0rem;
+}
+.address{
+    color: #354259;
+}
+.rights{
+   
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+    
+}
+p{
+    font-family: 'Josefin Slab', serif;
+    font-size: large;
+}
+.construction{
+    /* margin: 5rem 3rem 0rem 3rem; */
+    align-items: center;
+    margin-left: 4rem;
+}
